@@ -1,4 +1,5 @@
 ﻿[*.cs]
 
+ыыы
 # IDE0002: Упрощение доступа для членов
 dotnet_diagnostic.IDE0002.severity = none
